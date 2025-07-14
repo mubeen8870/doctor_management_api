@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Ayesha Khan",
+        "specialization": "Cardiology",
+        "experience": 10
+    },
+    {
+        "id": 2,
+        "name": "Dr. Ravi Teja",
+        "specialization": "Neurology",
+        "experience": 15
+    },
+    {
+        "id": 3,
+        "name": "Dr. Arjun Mehta",
+        "specialization": "General Medicine",
+        "experience": 7
+    },
+    {
+        "id": 4,
+        "name": "Dr. Sneha Reddy",
+        "specialization": "pediatrician",
+        "experience": 5
+    },
+    {
+        "id": 5,
+        "name": "Dr. Ramu dara",
+        "specialization": "psychiatrist",
+        "experience": 30
+    }
+]
